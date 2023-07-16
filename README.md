@@ -10,4 +10,7 @@
 - [Linkedin](https://www.linkedin.com/in/guilhermemmp/)
 - E-mail: guilherme2mpinheiro@gmail.com
 
+# Autores
 
+| [<img src="https://avatars.githubusercontent.com/u/92831677?v=4" width=115><br><sub>Guilherme Martins</sub>](https://github.com/guilhermemmp) |   
+| :---: | 
